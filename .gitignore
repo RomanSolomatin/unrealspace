@@ -1,0 +1,5 @@
+*.suo
+UnrealSpace/UnrealSpace.sln
+UnrealSpace/Intermediate/
+*.opensdf
+*.sdf
